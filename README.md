@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm PixelMadness! 👋
-<a href="https://discord.gg/AvhzhDX">
+### Hi there, I'm AkiinowYT! 👋
+<a href="https://discord.gg/auNTnn8">
   <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
- <a href="https://github.com/PixelMadness">
+ <a href="https://github.com/Akiinow">
   <img align="left" alt="My Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
- <a href="https://codepen.io/darkxmadness">
+ <a href="http://prowarz.ezyro.com">
   <img align="left" alt="My Codepen" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
-<a href="https://instagram.com/madnesscoderr/">
+<a href="https://www.instagram.com/akiinowyt/">
   <img align="left" alt="Madness Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 I am a passionate self-taught programmer from Poland.
  - 🌱 I’m currently learning EJS
-- 💬 Ask me about anything [here](https://discord.gg/AvhzhDX)
-- 📫 Add Me On Discord? ! </> Madness#9966
+- 💬 Ask me about anything [here](https://discord.gg/auNTnn8)
+- 📫 Add Me On Discord? ! </> AkiinowYT#8707
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 **Languages and Tools:** &nbsp;
