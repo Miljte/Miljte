@@ -45,8 +45,8 @@ I am a passionate self-taught programmer from Poland.
  
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelMadness&theme=dracula&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PixelMadness&show_icons=true&theme=dracula&line_height=21" alt="My "/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akiinow&theme=dracula&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akiinow&show_icons=true&theme=dracula&line_height=21" alt="My "/>
 </p>
 
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
