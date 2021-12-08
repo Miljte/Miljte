@@ -17,5 +17,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miljte&layout=compact&hide=html&theme=dracula" alt="miljte" />
 </p>
+<h1 align="center"></h1>
 <p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=miljte&show_icons=true&theme=dracula" alt="miljte" />
 </p>
