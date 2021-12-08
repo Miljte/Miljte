@@ -1,6 +1,3 @@
-<h1 align="center">Hey 👋, I'm Miljte</h1>
-<h3 align="center">I'm an avid front end web developer and also interested in bot development!</h3>
-<br>
 <h1 align="center">🛠️ | Tools I Work With</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
