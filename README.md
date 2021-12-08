@@ -14,7 +14,7 @@
   <code><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></code>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miljte&layout=compact&hide=html&theme=dracula" alt="miljte" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miljte&layout=compact&hide=html" alt="miljte" />
 </p>
 <p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=miljte&show_icons=true&theme=dracula" alt="miljte" />
 </p>
