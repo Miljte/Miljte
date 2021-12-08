@@ -1,4 +1,4 @@
-<h1 align="center">🛠️ Tools I Work With 🛠️</h1>
+<h1 align="center">🛠️ Languages And Tools 🛠️</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
