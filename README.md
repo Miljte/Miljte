@@ -41,18 +41,6 @@ when i'm not coding, i'm probably refactoring something that already works or re
 
 ---
 
-## 📊 github stats
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miljte&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miljte&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 let's connect
