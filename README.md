@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm miljan 👋
+# hey, i'm miljte 👋
 
 ### building web apps • exploring ml/ai • writing clean code
 
