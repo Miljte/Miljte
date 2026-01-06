@@ -4,7 +4,7 @@
 
 ### building web apps • exploring ml/ai • writing clean code
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-miljte.github.io-blue?style=for-the-badge)](https://miljte.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-miljte.vercel.app-blue?style=for-the-badge)](https://miljte.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-miljte-181717?style=for-the-badge&logo=github)](https://github.com/miljte)
 
 </div>
