@@ -1,95 +1,127 @@
+<!-- HEADER SECTION -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a1a&height=100&text=%5B%20S%20Y%20S%20T%20E%20M%20.%20O%20N%20L%20I%20N%20E%20%5D&fontSize=30&fontColor=00ffcc&fontAlignY=50"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=1000&color=00FFCC&center=true&vCenter=true&random=false&width=500&lines=%3E_SYS.INIT();%3E_LOADING_MODULE(FULLSTACK_ENGINEERING);%3E_LOADING_MODULE(ARTIFICIAL_INTELLIGENCE);%3E_STATUS_OPTIMAL)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://miljte.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00ffcc" alt="Portfolio" /></a>
-<a href="https://github.com/miljte"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ffcc" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=miljte&style=for-the-badge&color=000000&labelColor=00ffcc&label=SYS_VIEWS" alt="Views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Miljte&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 </div>
 
-<br/>
+---
+
+## Who I Am
+
+I'm a **Full-Stack Software Engineer** and **AI researcher** passionate about building scalable applications and intelligent systems. I specialize in architecting end-to-end solutions—from intuitive user interfaces to robust backend infrastructure and machine learning pipelines. My focus is on clean code, maintainability, and delivering measurable business value.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/_-SYSTEM.IDENTITY-000000?style=for-the-badge&logo=codeigniter&logoColor=00ffcc"/>
+
+| | |
+|---|---|
+| **Based In** | Global (Remote-First) |
+| **Focus Areas** | Web Development • Backend Systems • Machine Learning |
+| **Approach** | Simplicity • Scalability • User-Centric Design |
+
 </div>
 
-```typescript
-import { Architect } from "@miljte/core/intelligence";
+---
 
-const Miljte_Node: Architect = {
-  designation: "Software Engineer & AI Researcher",
-  protocols: ["TypeScript", "Python", "SQL", "Go"],
-  compute_nodes: ["React", "Next.js", "Node.js", "PyTorch"],
-  infrastructure: ["Docker", "AWS", "Vercel", "Microservices"],
-  objective: "Architecting advanced software systems & ML pipelines",
-  status: "ACTIVE | Building the future"
-};
-```
+## Technical Expertise
+
+### Frontend Development
+Crafting responsive, accessible interfaces that users love.
+
+<img src="https://skillicons.dev/icons?i=ts,javascript,react,nextjs,tailwind,html,css&perline=7&theme=light" />
+
+### Backend & APIs  
+Building robust, secure, and scalable server-side solutions.
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,graphql,rest&perline=6&theme=light" />
+
+### Data & Databases
+Designing efficient data architectures for performance and reliability.
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite&perline=5&theme=light" />
+
+### AI & Machine Learning
+Developing intelligent systems with modern ML frameworks.
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,jupyter,scikit-learn&perline=5&theme=light" />
+
+### DevOps & Cloud
+Deploying and maintaining production infrastructure.
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,git,linux&perline=6&theme=light" />
+
+---
+
+## Key Strengths
+
+- **Full-Stack Development**: End-to-end application design and implementation
+- **Scalable Architecture**: Microservices, distributed systems, cloud infrastructure
+- **AI/ML Integration**: Data pipelines, model training, and intelligent feature development
+- **Code Quality**: Clean, maintainable, well-documented code with comprehensive testing
+- **Problem Solving**: Strategic thinking combined with practical execution
+- **Collaboration**: Clear communication with both technical and non-technical stakeholders
+
+---
+
+## Performance & Impact
 
 <div align="center">
 
-<br/>
-
-<img src="https://img.shields.io/badge/_-ACTIVE_MODULES-000000?style=for-the-badge&logo=box&logoColor=00ffcc"/>
-
-<br/><br/>
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <b>[ UI_RENDER ]</b><br><br>
-      <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&perline=2&theme=dark" />
-    </td>
-    <td align="center" width="25%">
-      <b>[ CORE_API ]</b><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi&perline=2&theme=dark" />
-    </td>
-    <td align="center" width="25%">
-      <b>[ DATA_MODEL ]</b><br><br>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,pytorch,tensorflow&perline=2&theme=dark" />
-    </td>
-    <td align="center" width="25%">
-      <b>[ CLOUD_INFRA ]</b><br><br>
-      <img src="https://skillicons.dev/icons?i=docker,git,linux,aws&perline=2&theme=dark" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/_-TELEMETRY_DATA-000000?style=for-the-badge&logo=graphql&logoColor=00ffcc"/>
-
-<br/><br/>
-
 <a href="https://github.com/miljte">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miljte&show_icons=true&theme=transparent&hide_border=true&title_color=00ffcc&icon_color=00ffcc&text_color=8B949E&bg_color=00000000" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=miljte&show_icons=true&theme=transparent&hide_border=true&title_color=1e3a8a&icon_color=1e3a8a&text_color=64748b&bg_color=f8fafc" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/miljte">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miljte&layout=compact&theme=transparent&hide_border=true&title_color=00ffcc&text_color=8B949E&bg_color=00000000&langs_count=6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miljte&layout=compact&theme=transparent&hide_border=true&title_color=1e3a8a&text_color=64748b&bg_color=f8fafc&langs_count=6" alt="Top Languages" />
 </a>
 
-<br/>
+</div>
+
+### Contribution Activity
+
+<div align="center">
 
 <a href="https://github.com/miljte">
-  <img width="80%" src="https://streak-stats.demolab.com?user=miljte&theme=transparent&hide_border=true&stroke=00ffcc&ring=00ffcc&fire=00ffcc&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=miljte&theme=transparent&hide_border=true&stroke=1e3a8a&ring=1e3a8a&fire=1e3a8a&currStreakLabel=64748b&sideLabels=64748b&dates=cbd5e1" alt="GitHub Streak" />
 </a>
 
-<br/>
+</div>
+
+---
+
+## Projects & Contributions
+
+I actively contribute to open-source projects and maintain a portfolio of full-stack applications showcasing modern development practices.
+
+<div align="center">
 
 <a href="https://github.com/miljte">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miljte/Miljte/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miljte/Miljte/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Miljte/Miljte/output/github-contribution-grid-snake.svg" width="80%"/>
+    <img alt="contribution graph" src="https://raw.githubusercontent.com/Miljte/Miljte/output/github-contribution-grid-snake.svg" width="75%" />
   </picture>
 </a>
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm always interested in discussing interesting projects, collaboration opportunities, and innovative ideas.
+
+<div align="center">
+
+| Connect | Explore |
+|---------|---------|
+| [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)](https://github.com/miljte) | [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://miljte.vercel.app/) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@miljte.dev) |
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=miljte&style=flat-square&color=1e3a8a&label=Profile%20Views)
 
 </div>
 
